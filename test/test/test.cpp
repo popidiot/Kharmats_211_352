@@ -3,5 +3,5 @@
 int main() {
 
 	std::cout << sizeof(bool*) << std::endl;
-std::cout <<"blead'";
+std::cout <<"suka'";
 }
